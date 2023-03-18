@@ -1,2 +1,3 @@
-# flutter_firebase_auth
-Ready Madte Template Set Up
+# Flutter Firebase Template Code 
+Just copy  `auth` folder into your application and link your project with firebase.
+
