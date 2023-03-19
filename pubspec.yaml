@@ -1,0 +1,39 @@
+name: flutter_firebase_auth
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.7.1
+  firebase_storage: ^11.0.15
+  fluttertoast: ^8.2.1
+  image_picker: ^0.8.7
+  shared_preferences: ^2.0.18
+  get: ^4.6.5
+  cloud_firestore: ^4.4.4
+  firebase_auth: ^4.2.10
+  google_sign_in: ^6.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+
+
+
+  #
